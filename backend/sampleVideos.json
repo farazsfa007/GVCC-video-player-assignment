@@ -1,0 +1,20 @@
+[
+    {
+        "title": "React Basics",
+        "description": "Introduction to React",
+        "videoUrl": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+        "thumbnail": "https://img.youtube.com/vi/bMknfKXIFA8/maxresdefault.jpg"
+    },
+    {
+        "title": "Node.js Crash Course",
+        "description": "Learn Node.js",
+        "videoUrl": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+        "thumbnail": "https://img.youtube.com/vi/fBNz5xF-Kx4/maxresdefault.jpg"
+    },
+    {
+        "title": "MongoDB Tutorial",
+        "description": "Learn MongoDB",
+        "videoUrl": "https://www.youtube.com/watch?v=ExcRbA7fy_A",
+        "thumbnail": "https://img.youtube.com/vi/ExcRbA7fy_A/maxresdefault.jpg"
+    }
+]
