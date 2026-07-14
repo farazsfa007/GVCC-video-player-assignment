@@ -5,7 +5,6 @@ A full-stack Learning Portal developed as part of the **GVCC Learning Portal Dev
 **GitHub Repository:** [GVCC-video-player-assignment](https://github.com/farazsfa007/GVCC-video-player-assignment.com)
 **Deploy Link:** [Live Link](https://gvcc-video-player.netlify.app/)
 
-
 ---
 
 ## Features
